@@ -12,4 +12,4 @@ Octoblu Events Schedule
 - RobotsConf (Amelia Island, FL) - 12/6-12/7?
 
 # References
-[AllSeen Alliance](https://allseenalliance.org/news-and-events/events)
+[AllSeen Alliance Events](https://allseenalliance.org/news-and-events/events)
