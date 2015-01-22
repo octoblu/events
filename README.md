@@ -10,3 +10,6 @@ Octoblu Events Schedule
 - NodeConf (Oakland, CA) - 6/8-6/9
 - NodeConf Adventure (Walker Creek Ranch, CA) 6/11-6/14
 - RobotsConf (Amelia Island, FL) - 12/6-12/7?
+
+# References
+[AllSeen Alliance](https://allseenalliance.org/news-and-events/events)
