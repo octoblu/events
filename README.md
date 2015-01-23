@@ -2,6 +2,7 @@
 
 - Mobile World Congress (Barcellona) - 3/2-3/5 - Chris Matthieu (Intel comping travel), Gaby Pinto
 - SXSW (Austin, TX) - 3/9-3/12 - Moheeb Zara (Intel comping travel)
+- FirstBuild Hack the Home (Louisville, KY) - April 10-11th
 - Citrix Synergy (Orlando, FL) - 5/12-5/14 - Everyone
 - GlueCon (Broomfield, CO) - 5/20-5/21 - Chris Matthieu
 - ECTC 2015 - IEEE Electronic Components and Technology Conference (via Medtronic)(San Diego, CA) - 5/26-5/29 - Chris Matthieu
