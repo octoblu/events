@@ -11,6 +11,7 @@
 - [CascadiaJS](http://2015.cascadiajs.com/) - Tickets go on sale in early february
 - NodeConf (Oakland, CA) - 6/8-6/9
 - NodeConf Adventure (Walker Creek Ranch, CA) 6/11-6/14
+- IDF (San Francisco) 8/18 - 8/20
 - RobotsConf (Amelia Island, FL) - 12/6-12/7?
 
 #Maker/Digital Arts Related
