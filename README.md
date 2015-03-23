@@ -3,6 +3,7 @@
 - Mobile World Congress (Barcellona) - 3/2-3/5 - Chris Matthieu (Intel comping travel), Gaby Pinto
 - SXSW (Austin, TX) - 3/9-3/12 - Moheeb Zara (Intel comping travel)
 - [South West Maker Festival](http://southwestmakerfest.com) - March 28th 
+- [Hackster Hardware Weekend - Phoenix](http://www.eventbrite.com/e/hackster-hardware-weekend-phoenix-tickets-15427066772) - March 28-29
 - FirstBuild Hack the Home (Louisville, KY) - April 10-11th
 - Citrix Synergy (Orlando, FL) - 5/12-5/14 - Everyone
 - GlueCon (Broomfield, CO) - 5/20-5/21 - Chris Matthieu
