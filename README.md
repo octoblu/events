@@ -6,6 +6,7 @@
 - [Hackster Hardware Weekend - Phoenix](http://www.eventbrite.com/e/hackster-hardware-weekend-phoenix-tickets-15427066772) - March 28-29
 - FirstBuild Hack the Home (Louisville, KY) - April 10-11th
 - Citrix Synergy (Orlando, FL) - 5/12-5/14 - Everyone
+- [http://signal.twilio.com/](Twilio Signal) - 5/19-5/20 - Chris Matthieu (need replacement speaker due to conflict)
 - GlueCon (Broomfield, CO) - 5/20-5/21 - Chris Matthieu
 - ECTC 2015 - IEEE Electronic Components and Technology Conference (via Medtronic)(San Diego, CA) - 5/26-5/29 - Chris Matthieu
 - JSConf (Amelia Island, FL) - 5/27-5/29 (tickets on sale now)
