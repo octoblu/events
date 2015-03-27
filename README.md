@@ -5,6 +5,10 @@
 - [South West Maker Festival](http://southwestmakerfest.com) - March 28th 
 - [Hackster Hardware Weekend - Phoenix](http://www.eventbrite.com/e/hackster-hardware-weekend-phoenix-tickets-15427066772) - March 28-29
 - FirstBuild Hack the Home (Louisville, KY) - April 10-11th
+- [IOT Stream Conf](http://iot.streamconf.com/) 
+	Hackathon: April 18th, 2015
+	Workshops: April 21st, 22nd & 24th, 2015
+	Conference: April 23rd, 2015
 - Citrix Synergy (Orlando, FL) - 5/12-5/14 - Everyone
 - [http://signal.twilio.com/](Twilio Signal) - 5/19-5/20 - Chris Matthieu (need replacement speaker due to conflict)
 - GlueCon (Broomfield, CO) - 5/20-5/21 - Chris Matthieu
