@@ -6,7 +6,7 @@ Basic Info:
 
 ### Date
 
-June 27th, 2015 (9am-6pm)
+July 25th, 2015 (9am-6pm) (updated)
 
 ### Description:
 
@@ -47,22 +47,22 @@ Decisions
 
 ### Locations:
 
-* LocalMotors (undecided && unconfirmed)
-* MicroChip (undecided && unconfirmed)
-* IdeaMuseum (undecided && unconfirmed)
-* Gangplank (undecided && unconfirmed)
-* Citrix (undecided && unconfirmed)
+* LocalMotors (undecided && unconfirmed) - need contact info
+* MicroChip (undecided && unconfirmed) - need contact info
+* IdeaMuseum (undecided && unconfirmed) - need contact info
+* Gangplank (undecided && unconfirmed) - need contact info
+* Citrix (undecided && unconfirmed) - need contact info
 
 ### Sponsors:
 
-* Microchip (unconfirmed)
-* LocalMotors (unconfirmed)
-* Heatsync (unconfirmed)
-* Gangplank (unconfirmed)
-* GoDaddy (unconfirmed)
-* Intel (unconfirmed)
-* Cohoots (unconfirmed)
-* UAT (unconfirmed)
+* Microchip (unconfirmed) - need contact info
+* LocalMotors (unconfirmed) - need contact info
+* Heatsync (unconfirmed) - need contact info
+* Gangplank (unconfirmed) - need contact info
+* GoDaddy (unconfirmed) - need contact info
+* Intel (unconfirmed) - need contact info
+* Cohoots (unconfirmed) - need contact info
+* UAT (unconfirmed) - need contact info
 
 ### Food
 
