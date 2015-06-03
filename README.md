@@ -1,56 +1,13 @@
 # Octoblu Events Schedule
-- [Phoenix Code Day](https://codeday.org/phoenix) February 14th - 15th
-- Mobile World Congress (Barcellona) - 3/2-3/5 - Chris Matthieu (Intel comping travel), Gaby Pinto
-- SXSW (Austin, TX) - 3/9-3/12 - Moheeb Zara (Intel comping travel)
-- [South West Maker Festival](http://southwestmakerfest.com) - March 28th 
-- [Hackster Hardware Weekend - Phoenix](http://www.eventbrite.com/e/hackster-hardware-weekend-phoenix-tickets-15427066772) - March 28-29
-- FirstBuild Hack the Home (Louisville, KY) - April 10-11th
-- [IOT Stream Conf](http://iot.streamconf.com/) 
-	Hackathon: April 18th, 2015
-	Workshops: April 21st, 22nd & 24th, 2015
-	Conference: April 23rd, 2015
-- Citrix Synergy (Orlando, FL) - 5/12-5/14 - Everyone
-- [http://signal.twilio.com/](Twilio Signal) - 5/19-5/20 - Chris Matthieu (need replacement speaker due to conflict)
-- GlueCon (Broomfield, CO) - 5/20-5/21 - Chris Matthieu
-- ECTC 2015 - IEEE Electronic Components and Technology Conference (via Medtronic)(San Diego, CA) - 5/26-5/29 - Chris Matthieu
-- JSConf (Amelia Island, FL) - 5/27-5/29 (tickets on sale now)
-- [CascadiaJS](http://2015.cascadiajs.com/) - Tickets go on sale in early february. Submit talks before March 15th
-- NodeConf (Oakland, CA) - 6/8-6/9
-- [Industry of Things World](http://www.industryofthingsworld.com) September 21st to September 22nd 2015
-- NodeConf Adventure (Walker Creek Ranch, CA) 6/11-6/14
-- IDF (San Francisco) 8/18 - 8/20
-- RobotsConf (Amelia Island, FL) - 12/6-12/7?
-
-#Maker/Digital Arts Related
-
-- [ASU Emerge Festival](http://emerge.asu.edu/) March 6th
-
-
-#Intel IoT Events
-
-- 16-Jan	1	IoT	IoT Incubator	Demo night	Sacramento	HackerLab	US
-- 20-Jan	1	IoT	Meetup	Talks & Demos	Seattle		US
-- 8-Feb	3	Mixed	ISMC				
-- 11-Feb	2	IoT	IoT RoadShow	Training/Hackathon	Seattle	UW	US
-- 20-Feb	2	IoT	HacksterIO	Training/Hackathon	Seattle		US
-- 2-Mar	4	Mixed	MWC		Barcelona		EMEA
-- 21-Feb	1	IoT	Chandler STEM event	Community Outreach	Chandler	Downtown	US
-- 7-Mar	2	IoT	HacksterIO	Training/Hackathon	Portland	ADX	US
-- 14-Mar	2	IoT	RoadShow		Milano		EMEA
-- 14-Mar	2	IoT	IoT RoadShow	Training/Hackathon	Boston		US
-- 16-Mar	1	Mixed	SWSW	Tech demos	Austin	Moonshine	US
-- 28-Mar	1	Mixed	SWMakerfest	Tech Demos	Mesa, AZ	Downtown	US
-- 28-Mar	2	IoT	Student HackBCA	Training/Hackathon	New Jersey		US
-- 4-Apr	2	IoT	HacksterIO	Training/Hackathon	Pheonix	DENVER?	US
-- 15-Apr	2	IoT	HacksterIO	Training/Hackathon	Dallas		US
-- 2-May	2	IoT	IoT RoadShow	Training/Hackathon	New-York		US
-- 27-Apr	2	IoT	RoadShow		Berlin		EMEA
-- 1-May	2	IoT	RoadShow		St. Petersburg		EMEA
-- 16-May	2	Mixed	San Mateo Maker Faire	Tech Demos	San Francisco		US
-- 1-Jun	2	IoT	HacksterIO	Training/Hackathon	Milpitas		US
-- 3-May	2	IoT	RoadShow		London		EMEA
-- 4-May	2	IoT	RoadShow		Sao Paolo		Brazil
-- 6-Jun	2	IoT	IoT RoadShow	Training/Hackathon	Mt View		US
+- MakerFaire (Moheeb) 6/11-13 Washington DC
+- Citrix (Chris) - EMEA 7/6-10 Belfast 
+- Citrix CTO Council offsite (TBD) 7/13-15 santa clara
+- Citrix SI (Chris) August New Orleans
+- IDF (Chris, Jade, Moheeb) 8/18-20
+- MachineCon (Chris) - 9/8-9 Vegas
+- Splunk conf (Chris) - 9/21-24
+- AWS Invent (Jade) - 10/6-9 Vegas
+- RobotsConf - December
 
 
 # AT&T Events Schedule
