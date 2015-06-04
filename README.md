@@ -6,6 +6,7 @@
 - IDF (Chris, Jade, Moheeb) 8/18-20
 - MachineCon (Chris) - 9/8-9 Vegas
 - Splunk conf (Chris) - 9/21-24
+- API World (Chris) Santa Clara - 9/28-30
 - AWS Invent (Jade) - 10/6-9 Vegas
 - RobotsConf - December
 
