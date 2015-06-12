@@ -1,12 +1,12 @@
 # Octoblu Events Schedule
 - MakerFaire (Moheeb) 6/11-13 Washington DC
-- Citrix Connect (TBD) 6/15-19 - Santa Clara
-- Citrix (TBD) - EMEA 7/6-10 Belfast 
-- Citrix CTO Council offsite (TBD) 7/13-15 santa clara
+- Citrix Connect (Aaron) 6/15-19 - Santa Clara
+- Citrix (Peter) - EMEA 7/6-10 Belfast 
+- Citrix CTO Council offsite (Jade) 7/13-15 santa clara
 - Citrix SI (Chris) August New Orleans
-- IDF (Chris, Jade, Moheeb) 8/18-20    (Roy & Peter are interested)
+- IDF (Chris, Jade, Moheeb, Roy?) 8/18-20    (Roy & Peter are interested)
 - MachineCon (Chris) - 9/8-9 Vegas
-- Phoenix Mobile Conference (TBD) - 9/19 - Phoenix
+- Phoenix Mobile Conference (Koshin) - 9/19 - Phoenix
 - Splunk conf (Chris) - 9/21-24
 - API World (Chris) Santa Clara - 9/28-30
 - AWS Invent (Jade) - 10/6-9 Vegas
