@@ -4,7 +4,7 @@
 - Citrix (TBD) - EMEA 7/6-10 Belfast 
 - Citrix CTO Council offsite (TBD) 7/13-15 santa clara
 - Citrix SI (Chris) August New Orleans
-- IDF (Chris, Jade, Moheeb) 8/18-20
+- IDF (Chris, Jade, Moheeb) 8/18-20    (Roy & Peter are interested)
 - MachineCon (Chris) - 9/8-9 Vegas
 - Phoenix Mobile Conference (TBD) - 9/19 - Phoenix
 - Splunk conf (Chris) - 9/21-24
