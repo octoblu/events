@@ -1,7 +1,7 @@
 # Octoblu Events Schedule
 - MakerFaire (Moheeb) 6/11-13 Washington DC
-- Citrix Connect (Aaron) 6/15-19 - Santa Clara
 - Citrix (Peter) - EMEA 7/6-10 Belfast
+- iOS Dev Camp Hackathon (Olu & Jade) - 7/10-12 San Francisco
 - Citrix CTO Council offsite (Jade) 7/13-15 santa clara
 - Citrix SI (Chris) August New Orleans
 - IDF (Chris, Jade, Moheeb, Roy?) 8/18-20    (Roy & Peter are interested)
